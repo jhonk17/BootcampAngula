@@ -1,3 +1,7 @@
-let variavel = 10 + 10;
+ const alunos = ['Joao', 'Michael', 'Gohan'];
 
-console.log(variavel);
+ alunos.push('Goku');
+
+ alunos[4] = 'vegeta';
+
+ console.log(alunos)
